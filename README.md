@@ -25,7 +25,7 @@ The method should support these types of brackets:
 
 ### 2. Bracket Pair Positions
 
-Implement the [GetBracketPairPositions](PairBrackets/StringExtensions.cs#L22) method to return the list of indexes of an open and closed positions of bracket pairs.
+Implement the [GetBracketPairPositions](PairBrackets/StringExtensions.cs#L22) method to return the list of indexes of an open and closed positions of bracket pairs. The method returns a list of [tuples](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples).
 
 The method should support these types of brackets:
 * Round brackets ()
