@@ -11,7 +11,7 @@ The task requires .NET 6 SDK installed.
 
 In this task you have to implement three [extension methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods) that process a text and searches for pair of brackets.
 
-Use (.NET collections)[https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections] to solve this task. Implement a method using a different collection, so each method should use a collection that is not used in other methods.
+Use [.NET collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections) to solve this task. Implement a method using a different collection, so each method should use a collection that is not used in other methods.
 
 
 ### 1. Bracket Pairs Number
