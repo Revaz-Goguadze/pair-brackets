@@ -1,6 +1,6 @@
 # Pair Brackets
 
-An intermediate level task for practicing algorithms, collections and enumeration types.
+An intermediate level task for practicing algorithms, collections, tuples and enumeration types.
 
 Estimated time to complete the task - 1h.
 
